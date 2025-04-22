@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Im a colloge student who wants make games for fun
+Im a college student who wants make games for fun
 Im not that good, using godot for now until i get a new computer
 Well my only socials are just... facebook and gmail
 Id like advice on which path gets me a job in the near future
