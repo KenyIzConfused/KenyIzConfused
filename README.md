@@ -1,20 +1,60 @@
-## Hi there 👋
+@ -0,0 +1,59 @@
+<div align="center">
 
-<!--
-**KenyIzConfused/KenyIzConfused** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Keneth Kyle E. Quiachon
 
-Here are some ideas to get you started:
+**Freelance Developer · Game & Software Enthusiast · Thesis Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔭 I’m currently working on my thesis (Hop Bunny, Hop) and a website (Certificate Verification) I have about 2 years of experience of freelancing, but will not be posting them on GitHub since they are private projects. 
+[![GitHub](https://img.shields.io/badge/GitHub-KenyIzConfused-181717?logo=github&logoColor=white)](https://github.com/KenyIzConfused)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?logo=tailwindcss&logoColor=black)](https://tailwindcss.com/)
 
+</div>
 
-🌱 I'm learning more on how to streamline workflows and proper project management. This will help me in my thesis and future projects that are related to software and game development. 
+---
+
+## 👋 Hi there
+
+I'm Keneth Kyle E. Quiachon — a freelance developer with about 2 years of experience building private client projects (kept off GitHub), currently splitting my time between my thesis and web development.
+
+## 🔭 Currently working on
+
+- **Hop Bunny, Hop** — my thesis project
+- **Certificate Verification System** — an event management, attendee tracking, and verifiable certificate platform running on free-tier services
+
+## 🌱 Currently learning
+
+Streamlining development workflows and proper project management to support my thesis and future software & game development projects.
+
+## 💻 Tech & tools
+
+- **Frontend:** HTML, Tailwind CSS, vanilla JavaScript (ES modules)
+- **Backend:** Firebase Authentication + Cloud Firestore
+- **Email:** EmailJS with `mailto:` fallback
+- **Docs:** Git, READMEs, project planning
+
+## 👯 Looking to collaborate on
+
+Game development prototypes, thesis-adjacent tooling, and small utility websites.
+
+## 🤔 Looking for help with
+
+Thesis scope management and balancing freelance client work alongside academic projects.
+
+## 💬 Ask me about
+
+Freelancing as a student, Firebase-based prototypes, or building certificate/verification systems without a paid backend.
+
+## 📫 How to reach me
+
+Open an issue or pull request on any of my repositories — I'm happy to connect.
+
+## ⚡ Fun fact
+
+Most of my freelance work stays private, so my GitHub is more of a showcase for the things I'm learning and building in public — like my thesis and the Certificate Verification System.
+
+---
+
+<div align="center">
+<sub>Built with curiosity · Keneth Kyle E. Quiachon</sub>
+</div>
