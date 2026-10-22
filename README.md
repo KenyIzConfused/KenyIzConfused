@@ -1,4 +1,3 @@
-@ -0,0 +1,66 @@
 <div align="center">
 
 # Keneth Kyle E. Quiachon
