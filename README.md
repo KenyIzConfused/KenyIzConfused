@@ -1,4 +1,4 @@
-@ -0,0 +1,59 @@
+@ -0,0 +1,66 @@
 <div align="center">
 
 # Keneth Kyle E. Quiachon
@@ -26,11 +26,18 @@ I'm Keneth Kyle E. Quiachon — a freelance developer with about 2 years of expe
 
 Streamlining development workflows and proper project management to support my thesis and future software & game development projects.
 
+## 🏢 Background
+
+- **Freelance Developer** — ~2 years of private client projects (kept off GitHub)
+- **Research Consultant & Assistant** — ~2 years
+
 ## 💻 Tech & tools
 
 - **Frontend:** HTML, Tailwind CSS, vanilla JavaScript (ES modules)
 - **Backend:** Firebase Authentication + Cloud Firestore
 - **Email:** EmailJS with `mailto:` fallback
+- **Game dev:** Godot Engine (~2 years experience — prototypes and personal projects, not yet published)
+- **Desktop:** Windows app building (~1 year)
 - **Docs:** Git, READMEs, project planning
 
 ## 👯 Looking to collaborate on
@@ -43,7 +50,7 @@ Thesis scope management and balancing freelance client work alongside academic p
 
 ## 💬 Ask me about
 
-Freelancing as a student, Firebase-based prototypes, or building certificate/verification systems without a paid backend.
+Freelancing as a student, Firebase-based prototypes, building certificate/verification systems without a paid backend, Godot Engine prototyping, or research consulting.
 
 ## 📫 How to reach me
 
