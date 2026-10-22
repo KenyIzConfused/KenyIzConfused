@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on my thesis (Hop Bunny, Hop) and a website (Certificate Verification) I have about 2 years of experience of freelancing, but will not be posting them on GitHub since they are private projects. 
+
+
 🌱 I'm learning more on how to streamline workflows and proper project management. This will help me in my thesis and future projects that are related to software and game development. 
